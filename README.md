@@ -6,6 +6,7 @@ Play sounds by clicking the pads or using your keyboard keys.
 ---
 
 ## 🚀 Live Demo
+[Drum Kit](https://drumkittyproject.netlify.app/)
 
 
 ---
